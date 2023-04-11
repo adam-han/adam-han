@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Adam! 👋
+
+I'm a student at the University of Waterloo studying Mathematics.
 
 <!--
 **adam-han/adam-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
