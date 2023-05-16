@@ -1,8 +1,6 @@
 ### Hey, I'm Adam! 👋
 
-I'm an Honours Mathematics student at the University of Waterloo that deeply admires the possibilities of good code.
-
-I enjoy tackling problems related to both software development and data science! I primarily work with Python, C++, C, HTML, and CSS.
+I'm an Honours Mathematics student at the University of Waterloo that deeply admires the possibilities of good code. I enjoy tackling problems related to both software development and data science! I primarily work with Python, C++, C, HTML, and CSS.
 
 I’m currently an executive member at the UWaterloo Data Science Club as a Data Analyst. At the club, I utilize Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and BeautifulSoup4 to collect, organize, and visualize data relating to UWaterloo student interests.
 
